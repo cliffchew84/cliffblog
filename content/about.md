@@ -1,11 +1,11 @@
 +++
-title = "About Me"
-description = "Hugo, the world’s fastest framework for building websites"
+title = "About This Blog"
+description = "Why I am having this blog"
 date = "2020-06-07"
 aliases = ["about-us","about-hugo","contact"]
-author = "Cliff Chew"
+author = "Cliff Chew Kuo Ting"
 +++
 
-My first academic love was Economics, but I ended up becoming a data analyst due to my love for data. Because of this, I have had the fortunate experience of working with different groups of technical and non-technical people. While solving technical data problems fuels my stomach, investigating social dynamics and issues with data fuels my soul. It is this passion that has led to me creating this blog.
+My first academic love was Economics, but I ended up becoming a data analyst due to my love for data. My experience as a data analyst in different tech startups have equipped me with some interesting technical skills. With these skills, I hope to be able to use data to investigate certain social dynamics and issues that hold dear to me. This is the lean version for creating this blog.
 
-If what I have written so far has interested you, do look at my longer ‘About Me” entry about my background and topics that I hope to think about loud in this blog.
+If things seem interesting so far, consider reading the longer entry of ‘About Me”, as that will go deeper into my background and the topics that I hope to write here.
