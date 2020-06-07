@@ -13,6 +13,7 @@ googleAnalytics = "UA-168780016-1"
 [params]
    author = "Cliff Chew Kuo Ting"
    description = "A Singaporean's blog on data, tech startups and societies"
+   env = 'production'
 
 [menu]
 
