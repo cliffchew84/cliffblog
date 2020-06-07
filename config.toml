@@ -1,6 +1,6 @@
 baseURL = "https://cliffchew84.github.io"
 languageCode = "en-us"
-title = "Anubis"
+title = "Cliff Chew"
 theme = "anubis"
 paginate = 3
 
@@ -8,11 +8,11 @@ disqusShortname = ""
 googleAnalytics = ""
 
 [author]
-  name = "Dmitry Kolosov"
+  name = "Cliff Chew Kuo Ting"
 
 [params]
-   author = "Dmitry Kolosov"
-   description = "Anubis is a simple minimalist theme for Hugo blog engine."
+   author = "Cliff Chew Kuo Ting"
+   description = "A Singaporean's blog on data, tech startups and societies"
 
 [menu]
 
