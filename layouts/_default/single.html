@@ -5,9 +5,9 @@
             <h1 class="post-title{{ if .Params.favorite }} favorite{{end}}">{{ trim .Title  " " }}</h1>
         </header>
         <div class="content">
+            {{ partial "postInfoFull.html" . }}
             {{ .Content }}
         </div>
-        {{ partial "postInfoFull.html" . }}
     </article>
     {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}
