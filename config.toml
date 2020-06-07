@@ -5,7 +5,7 @@ theme = "anubis"
 paginate = 3
 
 disqusShortname = ""
-googleAnalytics = ""
+googleAnalytics = "UA-168780016-1"
 
 [author]
   name = "Cliff Chew Kuo Ting"
