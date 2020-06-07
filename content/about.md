@@ -1,28 +1,11 @@
 +++
-title = "About"
+title = "About Me"
 description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
+date = "2020-06-07"
 aliases = ["about-us","about-hugo","contact"]
-author = "Hugo Authors"
+author = "Cliff Chew"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+My first academic love was Economics, but I ended up becoming a data analyst due to my love for data. Because of this, I have had the fortunate experience of working with different groups of technical and non-technical people. While solving technical data problems fuels my stomach, investigating social dynamics and issues with data fuels my soul. It is this passion that has led to me creating this blog.
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
-
-
+If what I have written so far has interested you, do look at my longer ‘About Me” entry about my background and topics that I hope to think about loud in this blog.
