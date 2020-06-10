@@ -2,12 +2,14 @@
 
     <article class="post">
         <header>
-            <h1 class="post-title{{ if .Params.favorite }} favorite{{end}}">{{ trim .Title  " " }}</h1>
+            <h1 class="post-title{{ if .Params.favorite }} favorite{{end}}">{{ trim .Title  " " }}
+            </h1>
         </header>
         <div class="content">
             {{ partial "postInfoFull.html" . }}
             {{ .Content }}
         </div>
+        <div> {{ partial "share-buttons.html" . }} </div>
     </article>
     {{ if .Site.DisqusShortname }}
         {{ template "_internal/disqus.html" . }}

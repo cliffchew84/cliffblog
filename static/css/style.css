@@ -261,10 +261,13 @@ article header h1 a {
 
 .post-taxonomies {
     display: inline;
+    color: grey;
 }
 
 .post-date {
     white-space: nowrap;
+    color: black;
+    font-size: 1.25em;
 }
 
 .post-categories {
@@ -281,6 +284,8 @@ article header h1 a {
 .post-tags {
     display: inline;
     list-style-type: none;
+    color: black;
+    font-size: 1.25em;
     padding: 0;
     margin: 0;
 }
