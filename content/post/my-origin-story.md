@@ -1,3 +1,11 @@
++++
+author = "Cliff Chew Kuo Ting"
+title = "My Origin Story"
+date = "2020-06-13"
+description = "My First Research Paper that got me interested in data"
+tags = ["economics", "research", "data science"]
++++
+
 ## Before
 When I was a student, I hated how statistics was taught to me in such an abstract way, and I never felt I had a flair for programming. So it always feels like some poetic karma that my daily work involves writing scripts to analyse huge corpus of data. All this changed after I experienced my first end-to-end empirical research, which can be seen as the prequel to my data science journey. In modern terms, this is my origin story.
 
