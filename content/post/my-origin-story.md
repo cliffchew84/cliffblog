@@ -2,7 +2,7 @@
 author = "Cliff Chew Kuo Ting"
 title = "My Origin Story"
 date = "2020-06-13"
-description = "My First Research Paper that got me interested in data"
+description = "The research that got me interested in data"
 tags = ["economics", "research", "data science"]
 +++
 
