@@ -36,5 +36,10 @@ googleAnalytics = "UA-168780016-1"
     weight = 3
 
 [taxonomies]
-category = "categories"
-tag = "tags"
+  category = "categories"
+  tag = "tags"
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
