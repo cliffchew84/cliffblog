@@ -13,9 +13,9 @@ I grew a strong interest in urban issues during my university days. I learned ho
 PhD applications require a lot of effort. You get academic referral letters from university professors, take the GRE (Graduate Requirement Examination), write personal statements on your research or academic aspirations, and in some cases, even have a research thesis proposal ready. You will also have to search for quality programmes with professors who can supervise you on your research topic. And doing all these while thinking about life after your programme, when you officially make yourself over-qualify for most jobs in the world.
 
 The thought process of my PhD application was as follows: 
-Having all my education in Singapore, I wanted an overseas PhD to add diversity to my profile. 
-My grades were not exemplary, so I targeted universities with mid-range reputations (non-Ivy League schools) known for their urban planning and policy programmes.
-From some of these programmes, I hunted down professors with similar research interest. By then, I already had a topic in mind that was about urban housing prices in Singapore.
+1. Having all my education in Singapore, I wanted an overseas PhD to add diversity to my profile. 
+1. My grades were not exemplary, so I targeted universities with mid-range reputations (non-Ivy League schools) known for their urban planning and policy programmes.
+1. From some of these programmes, I hunted down professors with similar research interest. By then, I already had a topic in mind that was about urban housing prices in Singapore.
 
 One of the programmes that got me really excited was from the [HKU Department of Urban Planning and Design](https://www.arch.hku.hk/programmes/upad/mphil-and-phd-upd/). I even found a professor who matched my research interest! So I emailed her to seek her support for my application. This was an option at the university’s PhD application page. I assumed this can improve my chances of getting into the programme.
 
